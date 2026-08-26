@@ -25,4 +25,4 @@ This project presents an interactive Tableau dashboard analyzing global video ga
 Video Game Sales Dataset containing 11,493 games, 31 platforms, and 579 publishers.
 
 ## Tableau Public Dashboard
-[Add your Tableau Public link here]
+https://public.tableau.com/app/profile/aseem.ahmed/viz/GlobalVideoGameSalesAnalyticsDashboard/GlobalVideoGameSalesAnalyticsDashboard?publish=yes
